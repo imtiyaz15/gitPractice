@@ -4,3 +4,8 @@ Step 2: Put suger into warm water
 Step 3: Put some tea leaves  in the hot water
 Step 4: Make it more hot this makes tea tastier
 Step 5: Now start to serve to the ghuest
+Step 6: End
+
+Going To merge from slave and Commited in slave 
+
+Here we are gonna Commit it into king Branch 
