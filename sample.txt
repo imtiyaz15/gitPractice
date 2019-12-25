@@ -1,0 +1,12 @@
+Hello this is Imtiyaz Ahmad and wanna go to explain basics of git 
+from scratch
+Step 1:
+Go into the new directory 
+Step 2:
+Type git init 
+Step 3:
+Write some code
+Step 4:
+Type git add to add the files
+Step 5:
+Type git commit with your message type git commit -m "Your message here"
