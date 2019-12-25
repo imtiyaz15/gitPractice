@@ -10,3 +10,5 @@ Step 4:
 Type git add to add the files
 Step 5:
 Type git commit with your message type git commit -m "Your message here"
+Step 6: 
+Add your repo using git remote add your_hub_account/repo_name
